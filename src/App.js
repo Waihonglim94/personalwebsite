@@ -6,7 +6,7 @@ import WorkList from './WorkList'; // Import your component
 const works= [
   {
     "name":"work1",
-    "url":"src/Videos/test11.mp4",
+    "url":process.env.PUBLIC_URL + "Videos/test1.mp4",
   },
   
   {

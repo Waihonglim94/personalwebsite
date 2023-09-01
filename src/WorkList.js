@@ -55,6 +55,7 @@ function WorkList({ works, selectedWork, onSelectWork }) {
         ( <div> 
             <h3>Video Player</h3> 
             <VideoJS options={videoJsOptions} onReady={handlePlayerReady} />
+
         </div> )}
     </div>
 
