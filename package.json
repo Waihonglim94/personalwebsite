@@ -1,5 +1,6 @@
 {
   "name": "personalwebsite",
+  "homepage": "http://www.waihong.website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,10 +11,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "serve": "^14.2.1",
     "video.js": "^8.5.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://www.waihong.website/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
