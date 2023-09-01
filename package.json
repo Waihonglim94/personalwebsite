@@ -13,9 +13,11 @@
     "video.js": "^8.5.2",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://Waihonglim94.github.io/personalwebsite",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
